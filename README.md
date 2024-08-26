@@ -1,5 +1,5 @@
 <div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=50&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=header" />
 
 <h1 align="center">Hi 👋, I'm JangHyun</h1>
 
@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 
 ![profile_view_counter](https://komarev.com/ghpvc/?username=cho-jang-hyun)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=50&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=footer" />
 </div>
