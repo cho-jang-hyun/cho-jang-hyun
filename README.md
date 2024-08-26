@@ -13,7 +13,7 @@
 
 ## 🔭 Careers
 - Bacheloar of Arts degree expected in Software Convergence at Kyung Hee University (2020.03 - **present**)
-- Perception Engineer intern at ROWAIN (2024.03 - 2024.06)
+- Perception Engineer Intern at ROWAIN (2024.03 - 2024.06)
 
 ## ⚡ Community Activities
 - Personal research blog (Korean): [**blog**](https://priceless-hyun.tistory.com/)
