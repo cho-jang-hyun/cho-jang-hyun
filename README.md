@@ -5,7 +5,7 @@
 
 ## 🌱 Interests
 - **Navigation**
-  - Perception, Path Planning
+  - Robot Navigation, Multi-Robot Navigation
 - **Simultaneous Localization and Mapping (SLAM)**
   - LiDAR SLAM, Semantic SLAM
 - **Computer Vision**
