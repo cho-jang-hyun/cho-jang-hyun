@@ -26,7 +26,7 @@
 
   ![cho-jang-hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cho-jang-hyun&count_private=true&show_icons=true)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cho-jang-hyun&exclude_repo=cho-jang-hyun.github.io,cho-jang-hyun.github.io-legacyblog_source,cho-jang-hyun,&layout=compact)](https://github.com/cho-jang-hyun/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cho-jang-hyun&exclude_repo=cho-jang-hyun.github.io,cho-jang-hyun.github.io-legacyblog_source,cho-jang-hyun,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   ![profile_view_counter](https://komarev.com/ghpvc/?username=cho-jang-hyun)
 </div>
