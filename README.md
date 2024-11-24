@@ -11,6 +11,7 @@
 - **Computer Vision**
   - Segmentation
 
+
 ## 🔭 Careers
 - Bacheloar of Arts degree expected in Software Convergence at Kyung Hee University (2020.03 - **present**)
 - Perception Engineer Intern at ROWAIN (2024.03 - 2024.06)
@@ -20,6 +21,7 @@
 
 ## 📫 Contacts
 - LinkedIn: [Link](https://www.linkedin.com/in/janghyun-cho/)
+- Email: jjh7632016@khu.ac.kr
 
 ##
 
