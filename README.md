@@ -12,15 +12,18 @@
 
 ## 🔭 Careers
 - Research Intern at the AI Robotics Lab, Sogang University (2025 - **present**)
-- Bacheloar of Arts degree expected in Software Convergence at Kyung Hee University (2020 - 2025)
-- Robotics Intern at ROWAIN (2024.03 - 2024.06)
+- Received a B.Eng degree in Software Convergence at the Kyung Hee University (2020 - 2025)
+- Robotics Intern at ROWAIN (2024)
+
 
 ## ⚡ Community Activities
 - Personal research blog (Korean): [**blog**](https://priceless-hyun.tistory.com/)
 
+
 ## 📫 Contacts
 - LinkedIn: [Link](https://www.linkedin.com/in/janghyun-cho/)
 - Email: jjh7632016@khu.ac.kr
+
 
 ##
 
