@@ -8,14 +8,12 @@
   - Navigation, Multi-Agent Navigation
 - **Simultaneous Localization and Mapping (SLAM)**
   - LiDAR SLAM, Semantic SLAM
-- **Computer Vision**
-  - Segmentation
 
 
 ## 🔭 Careers
-- Bacheloar of Arts degree expected in Software Convergence at Kyung Hee University (2025.01 - **present**)
-- Bacheloar of Arts degree expected in Software Convergence at Kyung Hee University (2020.03 - 2025.02)
-- Perception Engineer Intern at ROWAIN (2024.03 - 2024.06)
+- Research Intern at the AI Robotics Lab, Sogang University (2025 - **present**)
+- Bacheloar of Arts degree expected in Software Convergence at Kyung Hee University (2020 - 2025)
+- Robotics Intern at ROWAIN (2024.03 - 2024.06)
 
 ## ⚡ Community Activities
 - Personal research blog (Korean): [**blog**](https://priceless-hyun.tistory.com/)
