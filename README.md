@@ -13,7 +13,8 @@
 
 
 ## 🔭 Careers
-- Bacheloar of Arts degree expected in Software Convergence at Kyung Hee University (2020.03 - **present**)
+- Bacheloar of Arts degree expected in Software Convergence at Kyung Hee University (2025.01 - **present**)
+- Bacheloar of Arts degree expected in Software Convergence at Kyung Hee University (2020.03 - 2025.02)
 - Perception Engineer Intern at ROWAIN (2024.03 - 2024.06)
 
 ## ⚡ Community Activities
