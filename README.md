@@ -4,13 +4,14 @@
 <h1 align="center">Hi 👋, I'm JangHyun</h1>
 
 ## 🌱 Interests
+- **Exploration**
+  - Exploration, Multi-Robot Exploration
 - **Navigation**
   - Navigation, Multi-Agent Navigation
-- **Simultaneous Localization and Mapping (SLAM)**
-  - LiDAR SLAM, Semantic SLAM
 
 
 ## 🔭 Careers
+- Upcoming  M.S Student in AI at the Sogang University, AI Robotics Lab (2025)
 - Research Intern at the AI Robotics Lab, Sogang University (2025 - **present**)
 - Received a B.Eng degree in Software Convergence at the Kyung Hee University (2020 - 2025)
 - Robotics Intern at ROWAIN (2024)
