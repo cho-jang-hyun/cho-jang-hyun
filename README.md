@@ -11,14 +11,14 @@
 
 
 ## 🔭 Careers
-- Upcoming  M.S Student in AI at the Sogang University, AI Robotics Lab (2025)
+- Upcoming  M.S Student in AI at the Sogang University, AI Robotics Lab
 - Research Intern at the AI Robotics Lab, Sogang University (2025 - **present**)
 - Received a B.Eng degree in Software Convergence at the Kyung Hee University (2020 - 2025)
 - Robotics Intern at [ROWAIN](https://rowain.com/) (2024)
 
 
 ## ⚡ Community Activities
-- Personal research blog (Korean): [**blog**](https://priceless-hyun.tistory.com/)
+- Personal research blog (Korean): [**Technical Blog**](https://priceless-hyun.tistory.com/)
 
 
 ## 📫 Contacts
