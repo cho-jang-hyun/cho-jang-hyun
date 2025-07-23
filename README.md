@@ -14,7 +14,7 @@
 - Upcoming  M.S Student in AI at the Sogang University, AI Robotics Lab (2025)
 - Research Intern at the AI Robotics Lab, Sogang University (2025 - **present**)
 - Received a B.Eng degree in Software Convergence at the Kyung Hee University (2020 - 2025)
-- Robotics Intern at ROWAIN (2024)
+- Robotics Intern at [ROWAIN](https://rowain.com/) (2024)
 
 
 ## ⚡ Community Activities
