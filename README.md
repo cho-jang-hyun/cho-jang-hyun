@@ -11,10 +11,12 @@
 
 
 ## 🔭 Careers
-- Upcoming  M.S Student in AI at the Sogang University, AI Robotics Lab
-- Research Intern at the AI Robotics Lab, Sogang University (2025 - **present**)
-- Received a B.Eng degree in Software Convergence at the Kyung Hee University (2020 - 2025)
-- Robotics Intern at [ROWAIN](https://rowain.com/) (2024)
+- M.S Student in AI at the Sogang University, AI Robotics Lab (2025.09 - **present**)
+- Research Intern at the AI Robotics Lab, Sogang University (2025.01 - 2025.08)
+- Received a B.Eng degree in Software Convergence(Robot Vision Track) at the Kyung Hee University (2020.03 - 2025.02)
+- Robotics Intern at [ROWAIN](https://rowain.com/) (2024.03 - 2024.06)
+- Undergraduate Research Intern at the COS Lab, Kyung Hee University (2023.07 - 2023.12)
+
 
 
 ## ⚡ Community Activities
@@ -23,7 +25,7 @@
 
 ## 📫 Contacts
 - LinkedIn: [Link](https://www.linkedin.com/in/janghyun-cho/)
-- Email: jjh7632016@khu.ac.kr
+- Email: nate.co.kr67@gmail.com
 
 
 ##
