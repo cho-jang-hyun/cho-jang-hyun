@@ -26,6 +26,7 @@
 ## 📫 Contacts
 - LinkedIn: [Link](https://www.linkedin.com/in/janghyun-cho/)
 - Email: nate.co.kr67@gmail.com
+- Website: https://cho-jang-hyun.github.io/
 
 
 ##
